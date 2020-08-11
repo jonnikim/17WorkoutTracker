@@ -4,6 +4,7 @@
 
 Utilizing a Mongo database through Mongoose schema, with routes handled by Express, create a simple workout tracker. 
 
+<img src="/public/assets/images/workouttracker.gif?raw=true">
 
 # Table of Contents
   * [User Story](#User-Story)
