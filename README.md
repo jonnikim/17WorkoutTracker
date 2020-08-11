@@ -55,3 +55,5 @@ When the user loads the page, they are given the option to create a new workout,
 Have questions? Contact me at:
 ##### Email: jonathan213kim@gmail.com
 ##### Github: https://github.com/jonnikim
+##### Porftolio: https://dry-springs-76393.herokuapp.com/
+##### LinkedIn: https://www.linkedin.com/in/jonathan-h-kim/
